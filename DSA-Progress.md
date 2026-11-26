@@ -25,7 +25,8 @@ Learning approach: Easy problems first; master patterns before moving to Medium.
 | 15 | Max Consecutive Ones | 485 | Arrays / counting | Solved |
 | 16 | Shuffle the Array | 1470 | Arrays / indexing | Solved |
 | 17 | Search Insert Position | 35 | Binary Search | Solved |
-| 18 | Pending — not yet completed | — | Easy-level practice | In progress |
+| 18 | Replace Elements with Greatest Element on Right Side | 1299 | Arrays / right-to-left maximum | Solved |
+| 19 | Squares of a Sorted Array | 977 | Arrays / Two Pointers | In progress |
 
 ## Learning preferences and rules
 
@@ -52,6 +53,6 @@ Learning approach: Easy problems first; master patterns before moving to Medium.
 | Stack and Queue | Pending |
 | Linked Lists | Pending |
 
-## Current session — Day 18
+## Current session — Day 19
 
-The user attempted LeetCode 189 (Rotate Array), but did not complete it and asked to return to Easy-level practice. Do not count it as solved. Choose a different Easy problem after checking this tracker and the repository for duplicates.
+Assigned LeetCode 977 (Squares of a Sorted Array). Focus: use two pointers to produce a sorted result from the squares of a non-decreasing input array. Mark solved only after the user confirms or shares an accepted solution.
